@@ -1,5 +1,9 @@
 Changelog
 =========
+3.1.0 (2024-04-09)
+------------------
+- Add LOCAL_JSON_SCHEMA_STORE for offline mode
+
 3.0.2 (2022-10-20)
 ------------------
 - Fix location of py.typed file
